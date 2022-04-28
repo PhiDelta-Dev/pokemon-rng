@@ -67,9 +67,9 @@ using fp64 = double;
 /*
 	Define the constants needed to to compute the time data
 */
-#define S_PER_MIN		60.0	//1 min = 60 s
-#define NDS_FPS			59.8261	//Nintendo DS framerate
-#define MIN_BOOT_TIME	14.0	//Minimum boot time
+#define S_PER_MIN     60.0    //1 min = 60 s
+#define NDS_FPS       59.8261 //Nintendo DS framerate
+#define MIN_BOOT_TIME 14.0    //Minimum boot time
 
 namespace rng::time
 {
